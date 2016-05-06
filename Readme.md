@@ -23,7 +23,6 @@
 
 * Catherine Kuhn (PhD student, UW): Google Earth Engine
 * Ben Hudson (postdoc, APL): Google Earth Engine
-* Christian Kienholz (postdoc, Univ. Alaska): ArcGIS, PostGIS, arcpy 
 * Joe Hamman: Python in geosciences, xarray
 * Amanda Tan: API development
 * Will Gagne-Maynard: Grad student under Jeff Richie; Meta Proteomics Amazon R etc
