@@ -30,10 +30,11 @@
 * Nick Bolton (PhD student, UW): route mapping for urban applications
 * Sophie Clayton (Postdoctoral researcher, UW): oceanography applications
 * Emilio Mayorga (APL): Open source GIS / AOOS
+* Sean Barberie (JPL): Drones
 
 ### Data Zoo: Please enter candidates and sub-bullet potential challenges / data qualifiers
 
-I (Rob) have in mind data that can be comprehended fairly quickly with no misconceptions so that subsequent effort hacking on this data doesn’t prove to be wasted time. 
+I (Rob) have in mind data that can be comprehended fairly quickly with no misconceptions so that subsequent effort hacking on this data doesn't prove to be wasted time. 
 
 - LiveOcean: 3D time series ocean state includes currents, temp, other parameters
 - Match these data to NPZ to fisheries
