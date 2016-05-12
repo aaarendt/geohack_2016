@@ -1,8 +1,8 @@
 # GeoHack 2016
 
-The University of Washington's eScience Institute is planning a geoHack Week aimed at expanding our understanding of software tools for the geosciences. 
+The University of Washington's eScience Institute is planning a GeoHack Week aimed at expanding our understanding of software tools for the geosciences. 
 
-* When? Monday August 29 to Thursday Sept 1, 2016
+* When? Monday August 29 to Friday Sept 2, 2016
 * Where? eScience Institute [Data Science Studio](http://escience.washington.edu/wrf-data-science-studio/)
 * Who? [Randy LeVeque](http://faculty.washington.edu/rjl/), [Rob Fatland](http://www.robfatland.net/research/), [Anthony Arendt](http://www.apl.washington.edu/people/profile.php?last_name=Arendt&first_name=Anthony): organizers/instructors. Additional instructors TBD. 
 * Why? Earth science challenges require interdisciplinary, collaborative solutions. New technologies are providing ever-increasing data volumes, but we can only leverage this new information if we have appropriate tools. We aim to fill a gap in formal educational programs by providing guidance on best practices for solving complex Earth science challenges.
