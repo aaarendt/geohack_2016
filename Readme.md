@@ -1,8 +1,14 @@
-# GeoHackWeek Planning
+# GeoHack 2016
 
-* When? Week of August 29, 2016?
-* Where? DSS and/or Active Learning Classrooms in Odegaard.
+The University of Washington's eScience Institute is planning a geoHack Week aimed at expanding our understanding of software tools for the geosciences. 
+
+* When? Monday August 29 to Thursday Sept 1, 2016
+* Where? eScience Institute [Data Science Studio](http://escience.washington.edu/wrf-data-science-studio/)
+* Who? [Randy LeVeque](http://faculty.washington.edu/rjl/), [Rob Fatland](http://www.robfatland.net/research/), [Anthony Arendt](http://www.apl.washington.edu/people/profile.php?last_name=Arendt&first_name=Anthony): organizers/instructors. Additional instructors TBD.
+* Why? The geosciences is experiencing a rapid expansion in data volume and complexity, but few researchers have the time to learn new methods for handling such data. We can do more, higher quality collaborative science by learning best software practices.
+* How? We will combine formal instruction with hackathons on datasets provided by the instructors. Show us how you typically handle data science challenges, and work together with participants to forge new approaches and learn optimized methods.
  
+
 ### Possible topics (for tutorials or hacking):
 
 * GoogleEarth / Engine
@@ -19,17 +25,18 @@
 * LiDAR processing
 * route mapping for Urban applications
 
-### Possible Invitees and Instructors (besides us):
+Rob: Parker's data, list of 7 different resources nothing to do with Parker. Can we hit those (e.g. ARGO Buoys) and relate them to Parker's stuff? Can you go into Parker's API and find specific patterns in the data? 
 
-* Catherine Kuhn (PhD student, UW): Google Earth Engine
-* Ben Hudson (postdoc, APL): Google Earth Engine
-* Joe Hamman: Python in geosciences, xarray
-* Amanda Tan: API development
-* Will Gagne-Maynard: Grad student under Jeff Richie; Meta Proteomics Amazon R etc
-* Nick Bolton (PhD student, UW): route mapping for urban applications
-* Sophie Clayton (Postdoctoral researcher, UW): oceanography applications
-* Emilio Mayorga (APL): Open source GIS / AOOS
-* Sean Barberie (JPL): Drones
+Randy: GeoClaw. How do we get a bunch of other data to interface with GeoClaw? We need other software to handle. 
+
+Anthony: 
+
+Talk to Dave Beck:
+
+
+
+
+
 
 ### Data Zoo: Please enter candidates and sub-bullet potential challenges / data qualifiers
 
