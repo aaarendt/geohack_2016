@@ -24,6 +24,6 @@ A group of 20-30 participants are expected, from a wide array of geoscience spec
 
 The geoHack team will prepare a series of existing datasets related to their ongoing research, and provide a series of exercises and challenges for the hackathon. These may include:
 
-* Regional Ocean Modeling System (ROMS) simulations of ocean temperature, currents and salinity: [LiveOcean}(http://faculty.washington.edu/pmacc/LO/LiveOcean.html)
+* Regional Ocean Modeling System (ROMS) simulations of ocean temperature, currents and salinity: [LiveOcean](http://faculty.washington.edu/pmacc/LO/LiveOcean.html)
 * Tsunami modeling datasets, using [GeoClaw](https://depts.washington.edu/clawpack/geoclaw/)
 * ice2oceans: airborne LiDAR/radar, satellite remote sensing and field measurements of hydrological variations of snow and ice in the Gulf of Alaska region
