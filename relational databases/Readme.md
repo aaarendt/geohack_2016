@@ -7,7 +7,7 @@ Nearly all geospatial problems involve manipulation of vector data. Vector data 
 x<sup>1</sup>
 
 | x | y | z | 
-| -- | -- | ---|
+| --- | --- | ---|
 1 | 2 | 3 
 
 
