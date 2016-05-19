@@ -1,11 +1,17 @@
 # Relational databases for handling vector data
 
-## Motivation: 
+##### Motivation: 
 
-Nearly all geospatial problems involve manipulation of vector data. Vector data comprise sets of coordinate pairs such as point, line or polygon data and their associated attributes. The structure of vector data is inherently well represented in tabular format:
+Nearly all geospatial problems involve manipulation of vector data. Vector data include anything that can be represented by sets of coordinate pairs:
+x<sup>1</sup>
+
+
+
 
 | x | y | z | 
 | -- | -- | --|
+
+The structure of vector data is inherently well represented in tabular format:
 
 
  
