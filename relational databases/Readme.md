@@ -2,31 +2,16 @@
 
 ##### Motivation: 
 
-Nearly all geospatial problems involve manipulation of vector data. Vector data include anything that can be represented by sets of coordinate pairs. The simplest form of vector data is a single point:
-(x<sub>1</sub>,y<sub>1</sub>)
+Nearly all geospatial problems involve manipulation of vector data. Vector data include anything that can be represented by sets of coordinate pairs. The simplest form of vector data is a single point. A line is a colletion of points linked together, and a polygon is a collection of points that connects back to the first point. Point, line and polygon data are different types of geospatial _features_.
 
-A line is a colletion of points linked together:
+The structure of these vector data is inherently well represented in tabular format:
 
-(x<sub>1</sub>,y<sub>1</sub>)
-(x<sub>2</sub>,y<sub>2</sub>)
-(x<sub>3</sub>,y<sub>3</sub>)
+|  feature type | coordinates  | 
+| --- | --- | 
+| point | (x<sub>1</sub>,y<sub>1</sub>)  |
+| line | (x<sub>1</sub>,y<sub>1</sub>), (x<sub>2</sub>,y<sub>2</sub>), (x<sub>3</sub>,y<sub>3</sub>)  |
+| polygon | (x<sub>1</sub>,y<sub>1</sub>), (x<sub>2</sub>,y<sub>2</sub>),(x<sub>3</sub>,y<sub>3</sub>), (x<sub>1</sub>,y<sub>1</sub>) | 
 
-And a polygon is a collection of points that connects back to the first point, forming a closed feature:
-
-(x<sub>1</sub>,y<sub>1</sub>)
-(x<sub>2</sub>,y<sub>2</sub>)
-(x<sub>3</sub>,y<sub>3</sub>)
-(x<sub>1</sub>,y<sub>1</sub>)
-
-Point, line and polygon data are different types of geospatial _features_.
-
-The structure of vector data is inherently well represented in tabular format, especially when we start attaching some additional information to the features:
-
-|  feature type | coordinates | attributes | 
-| --- | --- | ---|
-| point | (x<sub>1</sub>,y<sub>1</sub>) | location |
-| line | (x<sub>1</sub>,y<sub>1</sub>), (x<sub>2</sub>,y<sub>2</sub>), (x<sub>3</sub>,y<sub>3</sub>) | river |
-| polygon | (x<sub>1</sub>,y<sub>1</sub>), (x<sub>2</sub>,y<sub>2</sub>),(x<sub>3</sub>,y<sub>3</sub>), (x<sub>1</sub>,y<sub>1</sub>) | glacier| 
 
 ### Lesson content:
 
